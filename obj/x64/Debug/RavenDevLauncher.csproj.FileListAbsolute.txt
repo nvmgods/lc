@@ -1,0 +1,28 @@
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Debug\Interop.WMPLib.dll
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Debug\RavenDevLauncher.csproj.ResolveComReference.cache
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Debug\RavenDevLauncher.Interface.FrmMain.resources
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Debug\RavenDevLauncher.Interface.FrmMsgBox.resources
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Debug\RavenDevLauncher.Interface.FrmSettings.resources
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Debug\RavenDevLauncher.Properties.Resources.resources
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Debug\RavenDevLauncher.csproj.GenerateResource.cache
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Debug\RavenDevLauncher.csproj.CoreCompileInputs.cache
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\bin\x64\Debug\RavenDevLauncher.exe.config
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\bin\x64\Debug\RavenDevLauncher.exe
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\bin\x64\Debug\RavenDevLauncher.pdb
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\obj\x64\Debug\Interop.WMPLib.dll
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\obj\x64\Debug\RavenDevLauncher.csproj.ResolveComReference.cache
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\obj\x64\Debug\RavenDevLauncher.Interface.FrmMain.resources
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\obj\x64\Debug\RavenDevLauncher.Interface.FrmMsgBox.resources
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\obj\x64\Debug\RavenDevLauncher.Interface.FrmSettings.resources
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\obj\x64\Debug\RavenDevLauncher.Properties.Resources.resources
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\obj\x64\Debug\RavenDevLauncher.csproj.GenerateResource.cache
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\obj\x64\Debug\RavenDevLauncher.csproj.CoreCompileInputs.cache
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\obj\x64\Debug\RavenDevLauncher.exe
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\obj\x64\Debug\RavenDevLauncher.pdb
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\obj\x64\Debug\RavenDevLauncher.csproj.AssemblyReference.cache
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Debug\RavenDevLauncher.Interface.FrmSplashImage.resources
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\bin\x64\Debug\RF.exe.config
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\bin\x64\Debug\RF.exe
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\bin\x64\Debug\RF.pdb
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Debug\RF.exe
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Debug\RF.pdb

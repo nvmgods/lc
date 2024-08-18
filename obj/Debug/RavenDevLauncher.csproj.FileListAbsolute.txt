@@ -1,0 +1,14 @@
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\Debug\RavenDevLauncher.Interface.FrmMain.resources
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\Debug\RavenDevLauncher.Interface.FrmMsgBox.resources
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\Debug\RavenDevLauncher.Interface.FrmSettings.resources
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\Debug\RavenDevLauncher.Properties.Resources.resources
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\Debug\RavenDevLauncher.csproj.GenerateResource.cache
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\Debug\RavenDevLauncher.csproj.CoreCompileInputs.cache
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\Debug\Interop.WMPLib.dll
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\Debug\RavenDevLauncher.csproj.ResolveComReference.cache
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\bin\Debug\RF.exe.config
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\bin\Debug\RF.exe
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\bin\Debug\RF.pdb
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\Debug\RavenDevLauncher.Interface.FrmSplashImage.resources
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\Debug\RF.exe
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\Debug\RF.pdb

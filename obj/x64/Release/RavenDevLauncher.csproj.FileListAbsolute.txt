@@ -1,0 +1,40 @@
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Release\Interop.WMPLib.dll
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.csproj.ResolveComReference.cache
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.Interface.FrmMain.resources
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.Interface.FrmMsgBox.resources
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.Interface.FrmSettings.resources
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.Properties.Resources.resources
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.csproj.GenerateResource.cache
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.csproj.CoreCompileInputs.cache
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\bin\x64\Release\RavenDevLauncher.exe.config
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\bin\x64\Release\RavenDevLauncher.exe
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\bin\x64\Release\RavenDevLauncher.pdb
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\obj\x64\Release\Interop.WMPLib.dll
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.csproj.ResolveComReference.cache
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.Interface.FrmMain.resources
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.Interface.FrmMsgBox.resources
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.Interface.FrmSettings.resources
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.Properties.Resources.resources
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.csproj.GenerateResource.cache
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.csproj.CoreCompileInputs.cache
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.exe
+D:\RavenDevLauncher\RavenDevLauncher - RF Domination\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.pdb
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\bin\x64\Release\RF.exe.config
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\bin\x64\Release\RF.exe
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\bin\x64\Release\RF.pdb
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.Interface.FrmSplashImage.resources
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Release\RF.exe
+D:\RavenDevLauncher\RavenDevLauncher\RavenDevLauncher\obj\x64\Release\RF.pdb
+D:\RavenDevLauncher\RavenDevLauncher - No Updater\RavenDevLauncher\bin\x64\Release\RF.exe.config
+D:\RavenDevLauncher\RavenDevLauncher - No Updater\RavenDevLauncher\bin\x64\Release\RF.exe
+D:\RavenDevLauncher\RavenDevLauncher - No Updater\RavenDevLauncher\bin\x64\Release\RF.pdb
+D:\RavenDevLauncher\RavenDevLauncher - No Updater\RavenDevLauncher\obj\x64\Release\Interop.WMPLib.dll
+D:\RavenDevLauncher\RavenDevLauncher - No Updater\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.csproj.ResolveComReference.cache
+D:\RavenDevLauncher\RavenDevLauncher - No Updater\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.Interface.FrmMain.resources
+D:\RavenDevLauncher\RavenDevLauncher - No Updater\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.Interface.FrmMsgBox.resources
+D:\RavenDevLauncher\RavenDevLauncher - No Updater\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.Interface.FrmSettings.resources
+D:\RavenDevLauncher\RavenDevLauncher - No Updater\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.Properties.Resources.resources
+D:\RavenDevLauncher\RavenDevLauncher - No Updater\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.csproj.GenerateResource.cache
+D:\RavenDevLauncher\RavenDevLauncher - No Updater\RavenDevLauncher\obj\x64\Release\RavenDevLauncher.csproj.CoreCompileInputs.cache
+D:\RavenDevLauncher\RavenDevLauncher - No Updater\RavenDevLauncher\obj\x64\Release\RF.exe
+D:\RavenDevLauncher\RavenDevLauncher - No Updater\RavenDevLauncher\obj\x64\Release\RF.pdb
